@@ -4,7 +4,7 @@ import { Title } from "../components/Title"
 
 export const Cards = () => {
     return (
-        <div className="grid gap-y-7 bg-snow-500">
+        <div className="grid grid-cols-1 col-span-1 gap-y-7 bg-snow-500">
             <div className="px-7">
                 <Title />
             </div>

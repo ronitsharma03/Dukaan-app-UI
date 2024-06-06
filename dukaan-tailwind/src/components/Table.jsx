@@ -11,7 +11,7 @@ export const Table = (
     }
 ) => {
     return (
-        <div className="grid gap-6">
+        <div className="grid grid-col-4 gap-6">
             <div className="flex flex-col gap-6 bg-snow-500 pb-10 pl-11 pt-8">
                 <div>
                     <p className="text-xl font-medium">Transactions | This Month</p>
